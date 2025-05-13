@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\feif\\Desktop\\FFCppProject\\cppstudysrc\\test_switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9847822-F36F-434F-B259-2E469DC4CF6B}|test_switch.vcxproj|C:\\Users\\feif\\Desktop\\FFCppProject\\cppstudysrc\\test_switch\\test_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9847822-F36F-434F-B259-2E469DC4CF6B}|test_switch.vcxproj|solutionrelative:test_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_switch.cpp",
+              "DocumentMoniker": "C:\\Users\\feif\\Desktop\\FFCppProject\\cppstudysrc\\test_switch\\test_switch.cpp",
+              "RelativeDocumentMoniker": "test_switch.cpp",
+              "ToolTip": "C:\\Users\\feif\\Desktop\\FFCppProject\\cppstudysrc\\test_switch\\test_switch.cpp",
+              "RelativeToolTip": "test_switch.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T01:24:16.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

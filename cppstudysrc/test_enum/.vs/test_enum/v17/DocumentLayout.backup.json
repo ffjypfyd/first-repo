@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\feif\\Desktop\\FFCppProject\\cppstudysrc\\test_enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B4B1F2-6DF9-42E9-BC7D-E6492D5BB1B3}|test_enum.vcxproj|C:\\Users\\feif\\Desktop\\FFCppProject\\cppstudysrc\\test_enum\\test_enum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1B4B1F2-6DF9-42E9-BC7D-E6492D5BB1B3}|test_enum.vcxproj|solutionrelative:test_enum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_enum.cpp",
+              "DocumentMoniker": "C:\\Users\\feif\\Desktop\\FFCppProject\\cppstudysrc\\test_enum\\test_enum.cpp",
+              "RelativeDocumentMoniker": "test_enum.cpp",
+              "ToolTip": "C:\\Users\\feif\\Desktop\\FFCppProject\\cppstudysrc\\test_enum\\test_enum.cpp*",
+              "RelativeToolTip": "test_enum.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T02:45:22.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

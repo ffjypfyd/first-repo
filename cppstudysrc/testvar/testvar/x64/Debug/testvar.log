@@ -1,0 +1,6 @@
+﻿  testvar.cpp
+C:\Users\feif\Desktop\FFCppProject\cppstudysrc\testvar\testvar.cpp(25,10): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\feif\Desktop\FFCppProject\cppstudysrc\testvar\testvar.cpp(48,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\feif\Desktop\FFCppProject\cppstudysrc\testvar\testvar.cpp(56,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\feif\Desktop\FFCppProject\cppstudysrc\testvar\testvar.cpp(60,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\feif\Desktop\FFCppProject\cppstudysrc\testvar\testvar.cpp(91,5): error C3892: “cx”: 不能给常量赋值

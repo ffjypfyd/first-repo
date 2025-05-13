@@ -1,0 +1,5 @@
+﻿  firstcpp.cpp
+  secondcpp.cpp
+  正在生成代码...
+secondcpp.obj : error LNK2005: main 已经在 firstcpp.obj 中定义
+C:\Users\feif\Desktop\FFCppProject\cppstudysrc\firstcpp\x64\Debug\firstcpp.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
